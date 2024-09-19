@@ -8,11 +8,11 @@ This application is best viewed in Mobile/Phone browser.
 
 ## Problem
 
-Currently data has been managed using state. Hence don't refresh the page until the completion of match otherwise all data will be gone. For that you can use android application which you can **download** from the **Release Section**.
+Currently data has been managed using state. Hence don't refresh the page until the completion of match otherwise all data will be gone.
 
 ## Is this live?
 
-Yes, this application is live and deployed in Netlify. You can check here [gully-cricket-score-board](https://gully-cricket.netlify.app/).
+Yes, this application is live and deployed in Netlify. You can check here [gully-cricket-score-board](https://cricket-score-board-nine.vercel.app/).
 
 ## Available Scripts
 
@@ -26,7 +26,7 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode. 
 
 ### `npm run build`
 
